@@ -1,2 +1,5 @@
 # P-MedianOptimisation
-P-Median Optimisation
+- P-Median Optimisation
+- GA
+- PSO
+- SA
